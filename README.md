@@ -241,11 +241,9 @@ The current seasonal-naive model repeats the observed monthly pattern from the f
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Netflix_Trend_Forecasting.git
+git clone https://github.com/Goku753/Netflix_Trend_Forecasting.git
 cd Netflix_Trend_Forecasting
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### Step 2: Create a Virtual Environment
 
